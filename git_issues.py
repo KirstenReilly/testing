@@ -11,7 +11,7 @@ repo = 'thinkWhere/groundmapper-client'
 state = 'open'
 # provide username and password
 username = "KirstenReilly"
-password = "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"
+password = "*token*"
 
 auth = (username, password)
 
